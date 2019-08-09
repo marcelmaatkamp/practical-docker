@@ -8,7 +8,7 @@ In these talks I will give practical tips and tricks on how to effectively use D
 
 * [YouTube Channel with all episodes](https://www.youtube.com/channel/UCxp65f-xyu4z1PvmZBKqZGQ)
 
-# [EP01] socks5 proxy vs. port forwarding 
+# EP01: socks5 proxy vs. port forwarding 
 [https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy](https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy)
 
 Opening and forwarding specific ports per docker container is ok for a few containers, the more ports you open the more it becomes a hasstle and totally not clear which ports map to which container. 
@@ -18,19 +18,19 @@ A simple but very effective solution is to use a socks5 proxy. In this episode I
 Docker containers used:
  * [serjs/go-socks5-proxy](https://hub.docker.com/r/serjs/go-socks5-proxy)
 
-# [EP02] generating dynamic hostnames
+# EP02: generating dynamic hostnames
 In the previous talk [01 - socks5 proxy vs. port forwarding](01 - socks5 proxy vs. port forwarding) I showed how to reach docker containers by their internal hostname but what if you want to expose a docker containter to the outside? In this episode I will show how to generate a externally accessable dynamic hostname for specific containers.
 
 Docker containers used:
  * []()
 
-# [EP03] generate ssl cerificates for docker containers
+# EP03: generate ssl cerificates for docker containers
 Now that we can generate dynamic hostnames for docker containers, that opens the road for automatic generation of ssl certificates for those containers. 
 
 Docker containers used:
  * [](traefik)
 
-# [EP04] how to find the internal dns name of a docker container
+# EP04: how to find the internal dns name of a docker container
 In this episode I will show how to get the interal dns name of a docker container which is more than just the name of a container. Nothing fancy but still a handy trick to remember!
 
 Docker containers used:
