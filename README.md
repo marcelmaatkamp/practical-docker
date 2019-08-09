@@ -1,6 +1,6 @@
 # https://www.practical-docker.com
 
-<img align="right" src="https://github.com/marcelmaatkamp/practical-docker/blob/master/images/practical-docker-160.png">
+<img align="right" src="https://github.com/marcelmaatkamp/practical-docker/blob/master/images/practical-docker-160.png?raw=true">
 
 This is the source repository for https://www.practical-docker.com
 
