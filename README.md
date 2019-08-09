@@ -1,8 +1,8 @@
 # https://www.practical-docker.com
 
-<img align="right" src="https://github.com/marcelmaatkamp/practical-docker/blob/master/images/practical-docker-160.png?raw=true">
+<a href="https://www.practical-docker.com"><img align="right" src="https://github.com/marcelmaatkamp/practical-docker/blob/master/images/practical-docker-160.png?raw=true"></a>
 
-This is the source repository for https://www.practical-docker.com
+This is the source repository for [https://www.practical-docker.com](https://www.practical-docker.com)
 
 In these talks I will give practical tips and tricks on how to effectively use Docker as a valuable tool to solve various problems or just use it for fun projects with all kinds of hardware and software! See my YouTube Channel with all episodes for more information.
 
