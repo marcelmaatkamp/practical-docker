@@ -8,10 +8,16 @@ In these talks I will give practical tips and tricks on how to effectively use D
 
 # Episodes
 
-## 01 - proxies 
-Opening ports is 
+## 01 - socks5 proxy vs. port forwarding 
+Opening and forwarding specific ports per docker container is ok for a few containers, the more ports you open the more it becomes a hasstle and totally not clear which ports map to which container. 
 
-## 02 - something else
+A simple but very effective solution is to use a socks5 proxy. In this episode I will show how to install and use a socks5 proxy and what benefits it brings to use this solution.
+
+Docker containers used:
+ * [serjs/go-socks5-proxy] (https://hub.docker.com/r/serjs/go-socks5-proxy)
+
+## 02 - generating dynamic hostnames
+
 ## 03 - and another thing
 
 # About
