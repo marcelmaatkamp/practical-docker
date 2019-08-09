@@ -32,13 +32,13 @@ Docker containers used:
 
 Now that we can generate dynamic hostnames for docker containers, that opens the road for automatic generation of ssl certificates for those containers. 
 
-xip.io
-nip.io
-vcap.me
-localtest.me
-lvh.me
-ngrok
-http://pseudo.host/
+ * http://xip.io
+ * http://nip.io
+ * http://vcap.me
+ * http://localtest.me
+ * http://lvh.me
+ * http://ngrok
+ * http://pseudo.host/
 
 https://nickjanetakis.com/blog/ngrok-lvhme-nipio-a-trilogy-for-local-development-and-testing
 
