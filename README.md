@@ -27,6 +27,7 @@ Docker containers used:
  * []()
 
 # EP03: generate ssl cerificates for docker containers
+<a href="https://www.practical-docker.com"><img align="right" src="https://github.com/marcelmaatkamp/practical-docker/blob/master/images/practical-docker-letsencrypt-160.png?raw=true"></a>
 Now that we can generate dynamic hostnames for docker containers, that opens the road for automatic generation of ssl certificates for those containers. 
 
 Docker containers used:
