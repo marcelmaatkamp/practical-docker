@@ -27,17 +27,29 @@ Docker containers used:
  * []()
 
 # EP03: generate ssl cerificates for docker containers
+<a href="https://www.practical-docker.com"><img align="right" src="https://github.com/marcelmaatkamp/practical-docker/blob/master/images/practical-docker-traefik-160.png?raw=true"></a>
 <a href="https://www.practical-docker.com"><img align="right" src="https://github.com/marcelmaatkamp/practical-docker/blob/master/images/practical-docker-letsencrypt-160.png?raw=true"></a>
+
 Now that we can generate dynamic hostnames for docker containers, that opens the road for automatic generation of ssl certificates for those containers. 
 
+xip.io
+nip.io
+vcap.me
+localtest.me
+lvh.me
+ngrok
+http://pseudo.host/
+
+https://nickjanetakis.com/blog/ngrok-lvhme-nipio-a-trilogy-for-local-development-and-testing
+
 Docker containers used:
- * [](traefik)
+ * [traefik](https://hub.docker.com/_/traefik)
 
 # EP04: how to find the internal dns name of a docker container
 In this episode I will show how to get the interal dns name of a docker container which is more than just the name of a container. Nothing fancy but still a handy trick to remember!
 
 Docker containers used:
- * [](traefik)
+ * [traefik](https://hub.docker.com/_/traefik)
 
 # About
 <a href="https://www.practical-docker.com"><img align="right" src="https://github.com/marcelmaatkamp/practical-docker/blob/master/images/practical-docker-160.png?raw=true"></a>
