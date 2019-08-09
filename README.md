@@ -14,7 +14,7 @@ Opening and forwarding specific ports per docker container is ok for a few conta
 A simple but very effective solution is to use a socks5 proxy. In this episode I will show how to install and use a socks5 proxy and what benefits it brings to use this solution.
 
 Docker containers used:
- * [serjs/go-socks5-proxy] (https://hub.docker.com/r/serjs/go-socks5-proxy)
+ * [serjs/go-socks5-proxy](https://hub.docker.com/r/serjs/go-socks5-proxy)
 
 ## 02 - generating dynamic hostnames
 
