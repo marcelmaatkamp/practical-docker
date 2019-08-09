@@ -21,12 +21,13 @@ Docker containers used:
  * [serjs/go-socks5-proxy](https://hub.docker.com/r/serjs/go-socks5-proxy)
 
 # EP02: generating dynamic hostnames
-In the previous talk [01 - socks5 proxy vs. port forwarding](01 - socks5 proxy vs. port forwarding) I showed how to reach docker containers by their internal hostname but what if you want to expose a docker containter to the outside? In this episode I will show how to generate a externally accessable dynamic hostname for specific containers.
+In the previous talk [EP01: socks5 proxy vs. port forwarding](https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy) I showed how to reach docker containers by their internal hostname but what if you want to expose a docker containter to the outside? In this episode I will show how to generate a externally accessable dynamic hostname for specific containers.
 
 Docker containers used:
  * []()
 
 # EP03: generate ssl cerificates for docker containers
+<a href="https://www.practical-docker.com"><img align="right" src="https://github.com/marcelmaatkamp/practical-docker/blob/master/images/practical-docker-letsencrypt-160.png?raw=true"></a>
 Now that we can generate dynamic hostnames for docker containers, that opens the road for automatic generation of ssl certificates for those containers. 
 
 Docker containers used:
