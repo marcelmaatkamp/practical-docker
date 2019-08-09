@@ -1,0 +1,3 @@
+[submodule "episodes/practical-docker-episode-01-socks5-proxy"]
+	path = episodes/practical-docker-episode-01-socks5-proxy
+	url = https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy.git
