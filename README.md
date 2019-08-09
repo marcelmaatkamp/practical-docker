@@ -8,7 +8,9 @@ In these talks I will give practical tips and tricks on how to effectively use D
 
 * [YouTube Channel with all episodes](https://www.youtube.com/channel/UCxp65f-xyu4z1PvmZBKqZGQ)
 
-# EP01: socks5 proxy vs. port forwarding 
+# EP01: socks5 proxy vs. port forwarding
+<a href="https://www.practical-docker.com"><img align="right" src="https://github.com/marcelmaatkamp/practical-docker/blob/master/images/socks5.png?raw=true"></a>
+
 [https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy](https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy)
 
 Opening and forwarding specific ports per docker container is ok for a few containers, the more ports you open the more it becomes a hasstle and totally not clear which ports map to which container. 
@@ -41,6 +43,7 @@ Docker containers used:
 In these talks I will give practical tips and tricks on how to effectively use Docker as a valuable tool to solve various problems or just use it for fun projects with all kinds of hardware and software! See my [YouTube Channel with all episodes](https://www.youtube.com/channel/UCxp65f-xyu4z1PvmZBKqZGQ) for more information.
 * [YouTube Channel with all episodes](https://www.youtube.com/channel/UCxp65f-xyu4z1PvmZBKqZGQ)
 
+# logo
 ```
                         __   __            __    
  .-----.----.---.-.----|  |_|__.----.---.-|  |   
