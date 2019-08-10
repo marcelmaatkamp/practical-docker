@@ -11,7 +11,7 @@ In these talks I will give practical tips and tricks on how to effectively use D
 # EP01: socks5 proxy vs. port forwarding
 <table>
   <tr><td>
-<a href="https://www.practical-docker.com"><img align="right" src="https://github.com/marcelmaatkamp/practical-docker/blob/master/images/practical-docker-socks5-drop-160.png?raw=true"></a>
+<a href="https://www.practical-docker.com"><img align="right" src="https://github.com/marcelmaatkamp/practical-docker/blob/master/images/practical-docker-socks5-160-drop.png?raw=true"></a>
     </td></tr></table>
 
 [https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy](https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy)
@@ -30,8 +30,8 @@ Docker containers used:
  * []()
 
 # EP03: generate ssl cerificates for docker containers
-<p><a href="https://www.practical-docker.com"><img align="right" src="https://github.com/marcelmaatkamp/practical-docker/blob/master/images/practical-docker-traefik-drop-160.png?raw=true"></a></p>
-<p><a href="https://www.practical-docker.com"><img align="right" src="https://github.com/marcelmaatkamp/practical-docker/blob/master/images/practical-docker-letsencrypt-drop-160.png?raw=true"></a></p>
+<p><a href="https://www.practical-docker.com"><img align="right" src="https://github.com/marcelmaatkamp/practical-docker/blob/master/images/practical-docker-traefik-160-drop.png?raw=true"></a></p>
+<p><a href="https://www.practical-docker.com"><img align="right" src="https://github.com/marcelmaatkamp/practical-docker/blob/master/images/practical-docker-letsencrypt-160-drop.png?raw=true"></a></p>
 
 Now that we can generate dynamic hostnames for docker containers, that opens the road for automatic generation of ssl certificates for those containers. 
 
