@@ -8,7 +8,8 @@ In these talks I will give practical tips and tricks on how to effectively use D
 * [YouTube Channel with all episodes](https://www.youtube.com/channel/UCxp65f-xyu4z1PvmZBKqZGQ)
 
 # EP01: socks5 proxy vs. port forwarding
-<a href="https://www.practical-docker.com"><img align="right" src="https://github.com/marcelmaatkamp/practical-docker/blob/master/images/practical-docker-socks5-160-drop.png?raw=true"></a>
+<a href="https://hub.docker.com/r/serjs/go-socks5-proxy"><img align="right" src="https://github.com/marcelmaatkamp/practical-docker/blob/master/images/practical-docker-socks5-160-drop.png?raw=true"></a>
+<a href="https://hub.docker.com/r/gitlab/gitlab-ce/"><img align="right" src="https://github.com/marcelmaatkamp/practical-docker/blob/master/images/practical-docker-gitlab-160-drop.jpg?raw=true"></a>
 
 [https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy](https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy)
 
@@ -18,6 +19,7 @@ A simple but very effective solution is to use a socks5 proxy. In this episode I
 
 Docker containers used:
  * [serjs/go-socks5-proxy](https://hub.docker.com/r/serjs/go-socks5-proxy)
+ * [gitlab/gitlab-ce](https://hub.docker.com/r/gitlab/gitlab-ce/)
 
 # EP02: generating dynamic hostnames
 In the previous talk [EP01: socks5 proxy vs. port forwarding](https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy) I showed how to reach docker containers by their internal hostname but what if you want to expose a docker containter to the outside? In this episode I will show how to generate a externally accessable dynamic hostname for specific containers.
