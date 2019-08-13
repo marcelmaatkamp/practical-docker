@@ -11,6 +11,10 @@ In these talks I will give practical tips and tricks on how to effectively use D
 <a href="https://hub.docker.com/_/wordpress/"><img align="right" src="https://github.com/marcelmaatkamp/practical-docker/blob/master/images/practical-docker-wordpress-160.png?raw=true?raw=true"></a>
 <a href="https://hub.docker.com/r/ocassio/go-socks5-proxy/"><img align="right" src="https://github.com/marcelmaatkamp/practical-docker/blob/master/images/practical-docker-socks5-160-drop.png?raw=true"></a>
 
+## youtube talk
+<a href="https://www.youtube.com/channel/UCxp65f-xyu4z1PvmZBKqZGQ"><img align="right" src="https://github.com/marcelmaatkamp/practical-docker/blob/master/images/practical-docker-youtube-160.png?raw=true?raw=true"></a>
+
+## source code
 [https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy](https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy)
 
 Opening and forwarding specific ports per docker container is onl practical for a few containers but the more ports you open the more it becomes a hasstle and it is totally not clear which ports map to which container. 
