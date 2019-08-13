@@ -20,12 +20,12 @@ I will also show how to use username/password authentication and show how to use
 
 Docker containers used:
  * [ocassio/go-socks5-proxy](https://hub.docker.com/r/ocassio/go-socks5-proxy/)
+ 
+ |    |    |
+ | -- | -- |
+ | <a href="https://www.youtube.com/channel/UCxp65f-xyu4z1PvmZBKqZGQ"><img src="https://github.com/marcelmaatkamp/practical-docker/blob/master/images/practical-docker-youtube-160.png?raw=true?raw=true"></a> | https://www.youtube.com/channel/UCxp65f-xyu4z1PvmZBKqZGQ | 
+ | <a href="https://www.youtube.com/channel/UCxp65f-xyu4z1PvmZBKqZGQ"><img src="https://github.com/marcelmaatkamp/practical-docker/blob/master/images/practical-docker-github-160.png?raw=true"></a> | https://www.youtube.com/channel/UCxp65f-xyu4z1PvmZBKqZGQ |
 
-## youtube talk
-<a href="https://www.youtube.com/channel/UCxp65f-xyu4z1PvmZBKqZGQ"><img src="https://github.com/marcelmaatkamp/practical-docker/blob/master/images/practical-docker-youtube-160.png?raw=true?raw=true"></a>
-
-## source code
-[https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy](https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy)
 
 # EP02: socks5 proxy with git (gitlab)
 <a href="https://hub.docker.com/r/gitlab/gitlab-ce/"><img align="right" src="https://github.com/marcelmaatkamp/practical-docker/blob/master/images/practical-docker-gitlab-160.png?raw=true?raw=true"></a>
