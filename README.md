@@ -26,7 +26,6 @@ Docker containers used:
  | <a href="https://www.youtube.com/channel/UCxp65f-xyu4z1PvmZBKqZGQ"><img src="https://github.com/marcelmaatkamp/practical-docker/blob/master/images/practical-docker-youtube-160.png?raw=true?raw=true"></a> | https://www.youtube.com/channel/UCxp65f-xyu4z1PvmZBKqZGQ | 
  | <a href="https://www.youtube.com/channel/UCxp65f-xyu4z1PvmZBKqZGQ"><img src="https://github.com/marcelmaatkamp/practical-docker/blob/master/images/practical-docker-github-160.png?raw=true"></a> | https://www.youtube.com/channel/UCxp65f-xyu4z1PvmZBKqZGQ |
 
-
 # EP02: socks5 proxy with git (gitlab)
 <a href="https://hub.docker.com/r/gitlab/gitlab-ce/"><img align="right" src="https://github.com/marcelmaatkamp/practical-docker/blob/master/images/practical-docker-gitlab-160.png?raw=true?raw=true"></a>
 <a href="https://hub.docker.com/r/serjs/go-socks5-proxy"><img align="right" src="https://github.com/marcelmaatkamp/practical-docker/blob/master/images/practical-docker-socks5-160-drop.png?raw=true"></a>
@@ -38,14 +37,26 @@ The proxy example in the previous episode can be extended to not only browsers b
 Docker containers used:
  * [ocassio/go-socks5-proxy](https://hub.docker.com/r/ocassio/go-socks5-proxy/)
  * [gitlab/gitlab-ce](https://hub.docker.com/r/gitlab/gitlab-ce/)
+ 
+# EP03: socks5 proxy with Kubernetes (kubernetes-sigs/kind)
+<a href="https://hub.docker.com/r/gitlab/gitlab-ce/"><img align="right" src="https://github.com/marcelmaatkamp/practical-docker/blob/master/images/practical-docker-gitlab-160.png?raw=true?raw=true"></a>
+<a href="https://hub.docker.com/r/serjs/go-socks5-proxy"><img align="right" src="https://github.com/kubernetes-sigs/kind/raw/master/logo/logo.png"></a>
 
-# EP03: generating dynamic hostnames
+[https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy](https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy)
+
+What makes this solution even more attractive is the fact that it can be used inside kubernetes as well. In this episode I will show hwo to install the socs5 proxyy via helm and hwo to access the dashboard.
+
+Docker containers used:
+ * [ocassio/go-socks5-proxy](https://hub.docker.com/r/ocassio/go-socks5-proxy/)
+ * [gitlab/gitlab-ce](https://hub.docker.com/r/gitlab/gitlab-ce/)
+
+# EP04: generating dynamic hostnames
 In the previous talk [EP01: socks5 proxy vs. port forwarding](https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy) I showed how to reach docker containers by their internal hostname but what if you want to expose a docker containter to the outside? In this episode I will show how to generate a externally accessable dynamic hostname for specific containers.
 
 Docker containers used:
  * []()
 
-# EP04: generate ssl cerificates for docker containers
+# EP05: generate ssl cerificates for docker containers
 <a href="https://www.practical-docker.com"><img align="right" src="https://github.com/marcelmaatkamp/practical-docker/blob/master/images/practical-docker-traefik-160-drop.png?raw=true"></a>
 <a href="https://www.practical-docker.com"><img align="right" src="https://github.com/marcelmaatkamp/practical-docker/blob/master/images/practical-docker-letsencrypt-160-drop.png?raw=true"></a>
  
@@ -64,7 +75,7 @@ https://nickjanetakis.com/blog/ngrok-lvhme-nipio-a-trilogy-for-local-development
 Docker containers used:
  * [traefik](https://hub.docker.com/_/traefik)
 
-# EP05: how to find the internal dns name of a docker container
+# EP06: how to find the internal dns name of a docker container
 In this episode I will show how to get the interal dns name of a docker container which is more than just the name of a container. Nothing fancy but still a handy trick to remember!
 
 Docker containers used:
