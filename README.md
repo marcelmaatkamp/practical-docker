@@ -8,7 +8,8 @@ In these talks I will give practical tips and tricks on how to effectively use D
 * [YouTube Channel with all episodes](https://www.youtube.com/channel/UCxp65f-xyu4z1PvmZBKqZGQ)
 
 # EP01: socks5 proxy vs. port forwarding
-<div align="left"><a align="right" href="https://www.youtube.com/watch?v=6Maq5IyHSuc"><img src="https://img.youtube.com/vi/6Maq5IyHSuc/0.jpg" alt="youtube"></a></div>
+
+[![youtube](http://img.youtube.com/vi/6Maq5IyHSuc/0.jpg)](http://www.youtube.com/watch?v=6Maq5IyHSuc "youtube")
 
 Opening and forwarding specific ports per docker container is onl practical for a few containers but the more ports you open the more it becomes a hasstle and it is totally not clear which ports map to which container. 
 
