@@ -8,7 +8,7 @@ In these talks I will give practical tips and tricks on how to effectively use D
 * [YouTube Channel with all episodes](https://www.youtube.com/channel/UCxp65f-xyu4z1PvmZBKqZGQ)
 
 # EP01: socks5 proxy vs. port forwarding
-<div align="right"><a align="right" href="https://www.youtube.com/watch?v=6Maq5IyHSuc"><img src="https://img.youtube.com/vi/6Maq5IyHSuc/0.jpg" alt="youtube"></a></div>
+<div align="center"><a align="right" href="https://www.youtube.com/watch?v=6Maq5IyHSuc"><img src="https://img.youtube.com/vi/6Maq5IyHSuc/0.jpg" alt="youtube"></a></div>
  
 <hr />
 
