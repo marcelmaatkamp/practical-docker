@@ -9,8 +9,6 @@ In these talks I will give practical tips and tricks on how to effectively use D
 
 # EP01: socks5 proxy vs. port forwarding
 <div align="center"><a align="right" href="https://www.youtube.com/watch?v=6Maq5IyHSuc"><img src="https://img.youtube.com/vi/6Maq5IyHSuc/0.jpg" alt="youtube"></a></div>
- 
-<hr />
 
 Opening and forwarding specific ports per docker container is onl practical for a few containers but the more ports you open the more it becomes a hasstle and it is totally not clear which ports map to which container. 
 
@@ -23,7 +21,7 @@ I will also show how to use username/password authentication and show how to use
 
 Docker containers used:
  * [ocassio/go-socks5-proxy](https://hub.docker.com/r/ocassio/go-socks5-proxy/)
-
+<hr />
 # EP02: socks5 proxy with git (gitlab)
 <a href="https://hub.docker.com/r/gitlab/gitlab-ce/"><img align="right" src="https://github.com/marcelmaatkamp/practical-docker/blob/master/images/practical-docker-gitlab-160.png?raw=true?raw=true"></a>
 <a href="https://hub.docker.com/r/serjs/go-socks5-proxy"><img align="right" src="https://github.com/marcelmaatkamp/practical-docker/blob/master/images/practical-docker-socks5-160-drop.png?raw=true"></a>
