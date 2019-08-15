@@ -9,6 +9,8 @@ In these talks I will give practical tips and tricks on how to effectively use D
 
 # EP01: socks5 proxy vs. port forwarding
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D11udjuZloQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <a href="https://hub.docker.com/_/wordpress/"><img align="right" src="https://github.com/marcelmaatkamp/practical-docker/blob/master/images/practical-docker-wordpress-160.png?raw=true?raw=true"></a>
 <a href="https://hub.docker.com/r/ocassio/go-socks5-proxy/"><img align="right" src="https://github.com/marcelmaatkamp/practical-docker/blob/master/images/practical-docker-socks5-160-drop.png?raw=true"></a>
 
