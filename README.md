@@ -8,22 +8,23 @@ In these talks I will give practical tips and tricks on how to effectively use D
 * [YouTube Channel with all episodes](https://www.youtube.com/channel/UCxp65f-xyu4z1PvmZBKqZGQ)
 
 # EP01: socks5 proxy vs. port forwarding
-
-[![youtube](http://img.youtube.com/vi/6Maq5IyHSuc/0.jpg)](http://www.youtube.com/watch?v=6Maq5IyHSuc "youtube")
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=6Maq5IyHSuc
+" target="_blank"><img align="right" src="http://img.youtube.com/vi/6Maq5IyHSuc/0.jpg" 
+alt="yotube" width="250" height="200" border="10" /></a>
 
 Opening and forwarding specific ports per docker container is onl practical for a few containers but the more ports you open the more it becomes a hasstle and it is totally not clear which ports map to which container. 
-
-<a href="https://hub.docker.com/_/wordpress/"><img align="right" src="https://github.com/marcelmaatkamp/practical-docker/blob/master/images/practical-docker-wordpress-160.png?raw=true?raw=true"></a>
-<a href="https://hub.docker.com/r/ocassio/go-socks5-proxy/"><img align="right" src="https://github.com/marcelmaatkamp/practical-docker/blob/master/images/practical-docker-socks5-160-drop.png?raw=true"></a>
 
 A simple but very effective solution is to use a socks5 proxy. In this episode I will show how to install and use a socks5 proxy and what benefits it brings to use this solution which is that each container can be reached by its internal hostname which is the name of the container.
 
 I will also show how to use username/password authentication and show how to use this combination in a secure practical way.
 
 Docker containers used:
- * [ocassio/go-socks5-proxy](https://hub.docker.com/r/ocassio/go-socks5-proxy/)
 
-<hr />
+|  | |
+| -- | -- | 
+| <a href="https://hub.docker.com/_/wordpress/"><img align="left" src="https://github.com/marcelmaatkamp/practical-docker/blob/master/images/practical-docker-wordpress-160.png?raw=true?raw=true"></a>  | <a href="https://hub.docker.com/r/ocassio/go-socks5-proxy/"><img align="left" src="https://github.com/marcelmaatkamp/practical-docker/blob/master/images/practical-docker-socks5-160-drop.png?raw=true"></a> | 
+| [ocassio/go-socks5-proxy](https://hub.docker.com/r/ocassio/go-socks5-proxy/) | [ocassio/go-socks5-proxy](https://hub.docker.com/r/ocassio/go-socks5-proxy/) |
+
 
 # EP02: socks5 proxy with git (gitlab)
 <a href="https://hub.docker.com/r/gitlab/gitlab-ce/"><img align="right" src="https://github.com/marcelmaatkamp/practical-docker/blob/master/images/practical-docker-gitlab-160.png?raw=true?raw=true"></a>
