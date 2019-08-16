@@ -8,6 +8,8 @@ In these talks I will give practical tips and tricks on how to effectively use D
 
 * [YouTube Channel with all episodes](https://www.youtube.com/channel/UCxp65f-xyu4z1PvmZBKqZGQ)
 
+---
+
 # EP01: socks5 proxy vs. port forwarding
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=6Maq5IyHSuc
@@ -22,6 +24,8 @@ I will also show how to use username/password authentication and show how to use
 
 [https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy](https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy)
 
+<div />
+
 # EP02: socks5 proxy with git (gitlab)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=6Maq5IyHSuc
@@ -31,6 +35,8 @@ alt="yotube" width="300" border="10" /></a>
 The proxy example in the previous episode can be extended to not only browsers but also for other protocols as well like like git. In this episode I will show how to use git over a ssh/socks proxy
 
 [https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy](https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy)
+
+<div />
 
 # EP03: socks5 proxy with Kubernetes (kubernetes-sigs/kind)
 
@@ -42,6 +48,8 @@ What makes this solution even more attractive is the fact that it can be used in
 
 [https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy](https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy)
 
+<div />
+
 # EP04: generating dynamic hostnames
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=6Maq5IyHSuc
@@ -51,6 +59,8 @@ alt="yotube" width="300" border="10" /></a>
 In the previous talk [EP01: socks5 proxy vs. port forwarding](https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy) I showed how to reach docker containers by their internal hostname but what if you want to expose a docker containter to the outside? In this episode I will show how to generate a externally accessable dynamic hostname for specific containers.
 
 [https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy](https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy)
+
+<div />
 
 # EP05: generate ssl cerificates for docker containers
 
@@ -71,6 +81,8 @@ Now that we can generate dynamic hostnames for docker containers, that opens the
 https://nickjanetakis.com/blog/ngrok-lvhme-nipio-a-trilogy-for-local-development-and-testing
 
 [https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy](https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy)
+
+<div />
 
 # EP06: how to find the internal dns name of a docker container
 
