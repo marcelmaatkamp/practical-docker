@@ -1,4 +1,5 @@
 # https://www.practical-docker.com
+
 <a href="https://www.practical-docker.com"><img align="right" src="https://github.com/marcelmaatkamp/practical-docker/blob/master/images/practical-docker-drop-160.png?raw=true"></a>
 
 This is the source repository for [https://www.practical-docker.com](https://www.practical-docker.com)
@@ -8,6 +9,7 @@ In these talks I will give practical tips and tricks on how to effectively use D
 * [YouTube Channel with all episodes](https://www.youtube.com/channel/UCxp65f-xyu4z1PvmZBKqZGQ)
 
 # EP01: socks5 proxy vs. port forwarding
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=6Maq5IyHSuc
 " target="_blank"><img align="right" src="http://img.youtube.com/vi/6Maq5IyHSuc/0.jpg" 
 alt="yotube" width="300" border="10" /></a>
@@ -21,6 +23,7 @@ I will also show how to use username/password authentication and show how to use
 [https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy](https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy)
 
 # EP02: socks5 proxy with git (gitlab)
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=6Maq5IyHSuc
 " target="_blank"><img align="right" src="http://img.youtube.com/vi/6Maq5IyHSuc/0.jpg" 
 alt="yotube" width="300" border="10" /></a>
@@ -30,6 +33,7 @@ The proxy example in the previous episode can be extended to not only browsers b
 [https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy](https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy)
 
 # EP03: socks5 proxy with Kubernetes (kubernetes-sigs/kind)
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=6Maq5IyHSuc
 " target="_blank"><img align="right" src="http://img.youtube.com/vi/6Maq5IyHSuc/0.jpg" 
 alt="yotube" width="300" border="10" /></a>
@@ -39,6 +43,7 @@ What makes this solution even more attractive is the fact that it can be used in
 [https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy](https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy)
 
 # EP04: generating dynamic hostnames
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=6Maq5IyHSuc
 " target="_blank"><img align="right" src="http://img.youtube.com/vi/6Maq5IyHSuc/0.jpg" 
 alt="yotube" width="300" border="10" /></a>
@@ -48,6 +53,7 @@ In the previous talk [EP01: socks5 proxy vs. port forwarding](https://github.com
 [https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy](https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy)
 
 # EP05: generate ssl cerificates for docker containers
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=6Maq5IyHSuc
 " target="_blank"><img align="right" src="http://img.youtube.com/vi/6Maq5IyHSuc/0.jpg" 
 alt="yotube" width="300" border="10" /></a>
@@ -67,6 +73,7 @@ https://nickjanetakis.com/blog/ngrok-lvhme-nipio-a-trilogy-for-local-development
 [https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy](https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy)
 
 # EP06: how to find the internal dns name of a docker container
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=6Maq5IyHSuc
 " target="_blank"><img align="right" src="http://img.youtube.com/vi/6Maq5IyHSuc/0.jpg" 
 alt="yotube" width="300" border="10" /></a>
@@ -76,11 +83,13 @@ In this episode I will show how to get the interal dns name of a docker containe
 [https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy](https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy)
 
 # About
+
 <a href="https://www.practical-docker.com"><img align="right" src="https://github.com/marcelmaatkamp/practical-docker/blob/master/images/practical-docker-drop-160.png?raw=true"></a>
 In these talks I will give practical tips and tricks on how to effectively use Docker as a valuable tool to solve various problems or just use it for fun projects with all kinds of hardware and software! See my [YouTube Channel with all episodes](https://www.youtube.com/channel/UCxp65f-xyu4z1PvmZBKqZGQ) for more information.
 * [YouTube Channel with all episodes](https://www.youtube.com/channel/UCxp65f-xyu4z1PvmZBKqZGQ)
 
 # logo
+
 ```
                         __   __            __    
  .-----.----.---.-.----|  |_|__.----.---.-|  |   
