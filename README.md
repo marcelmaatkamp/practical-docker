@@ -12,19 +12,17 @@ In these talks I will give practical tips and tricks on how to effectively use D
 
 # EP01: socks5 proxy vs. port forwarding
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=6Maq5IyHSuc
-" target="_blank"><img align="right" src="http://img.youtube.com/vi/6Maq5IyHSuc/0.jpg" 
-alt="yotube" width="300" border="10" /></a>
-
-Opening and forwarding specific ports per docker container is onl practical for a few containers but the more ports you open the more it becomes a hasstle and it is totally not clear which ports map to which container. 
+| | | 
+| -- | -- | 
+| Opening and forwarding specific ports per docker container is onl practical for a few containers but the more ports you open the more it becomes a hasstle and it is totally not clear which ports map to which container. 
 
 A simple but very effective solution is to use a socks5 proxy. In this episode I will show how to install and use a socks5 proxy and what benefits it brings to use this solution which is that each container can be reached by its internal hostname which is the name of the container.
 
 I will also show how to use username/password authentication and show how to use this combination in a secure practical way.
 
-[https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy](https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy)
+[https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy](https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy) | 
 
-<div />
+
 
 # EP02: socks5 proxy with git (gitlab)
 
@@ -36,8 +34,7 @@ The proxy example in the previous episode can be extended to not only browsers b
 
 [https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy](https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy)
 
-<div />
-
+<hr />
 # EP03: socks5 proxy with Kubernetes (kubernetes-sigs/kind)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=6Maq5IyHSuc
@@ -48,7 +45,7 @@ What makes this solution even more attractive is the fact that it can be used in
 
 [https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy](https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy)
 
-<div />
+<hr />
 
 # EP04: generating dynamic hostnames
 
@@ -60,7 +57,7 @@ In the previous talk [EP01: socks5 proxy vs. port forwarding](https://github.com
 
 [https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy](https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy)
 
-<div />
+<hr />
 
 # EP05: generate ssl cerificates for docker containers
 
@@ -82,7 +79,7 @@ https://nickjanetakis.com/blog/ngrok-lvhme-nipio-a-trilogy-for-local-development
 
 [https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy](https://github.com/marcelmaatkamp/practical-docker-episode-01-socks5-proxy)
 
-<div />
+<hr />
 
 # EP06: how to find the internal dns name of a docker container
 
